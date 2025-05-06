@@ -43,6 +43,21 @@ rmmod module.ko
 
 ---
 
+## Download Android Kernel Sources
+
+To download Android kernel sources for your device, visit the official repository:
+
+👉 [Official Kernel Source](https://www.kernel.org/)
+
+Other sources based on device manufacturer:
+
+- [Google Open Source](https://android.googlesource.com/kernel/msm/)
+- [Samsung Open Source](https://opensource.samsung.com/)
+- [Xiaomi GitHub (MiCode)](https://github.com/MiCode)
+- [OnePlus OSS GitHub](https://github.com/OnePlusOSS)
+
+---
+
 ## Using From Userland
 
 1. **Include** `driver.hpp` in your project:
