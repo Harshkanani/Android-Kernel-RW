@@ -13,7 +13,7 @@
 
 ---
 
-## 🔧 Build Instructions
+## Build Instructions
 
 ### 1. Compile Kernel Module (Against Your Kernel Source)
 
