@@ -9,7 +9,7 @@ int main(int argc, char const *argv[]) {
     int result = 0;
     pid_t pid = getpid();
 
-    //Initialize driver with Process Identifier
+    //Initialize driver with Process IDentifier
     driver->initialize(pid);
 
     int value = 555;
