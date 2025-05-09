@@ -1,9 +1,6 @@
 {
     "files.associations": {
         ".fantomasignore": "ignore",
-        "memory.h": "c",
-        "process.h": "c",
-        "comm.h": "c",
         "init.h": "c",
         "memorytranslation.h": "c"
     }
