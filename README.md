@@ -47,7 +47,7 @@ rmmod module.ko
 
 To download Android kernel sources for your device, visit the official repository:
 
-👉 [Official Kernel Source](https://www.kernel.org/)
+- [Official Kernel Source](https://www.kernel.org/)
 
 Other sources based on device manufacturer:
 
